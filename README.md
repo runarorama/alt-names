@@ -13,7 +13,7 @@ This small library provides alternate names for things in the [Unison base libra
 From `ucm`, the Unison Codebase Manager:
 
 ```
-.> pull https://github.com/runarorama/unison-names:.latest .lib.names
+.> pull https://github.com/runarorama/unison-names:.releases.latest .lib.names
 ```
 
 Substitute for `.lib.names` whatever namespace where you want this to live in your codebase.
