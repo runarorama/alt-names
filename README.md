@@ -1,4 +1,4 @@
-# Alternate names for Unison base libraries
+# Alternate names for stuff in the Unison base libraries
 
 This small library provides alternate names for things in the [Unison base libraries](https://github.com/unisonweb/base). For example:
 
