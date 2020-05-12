@@ -7,3 +7,13 @@ This small library provides alternate names for things in the [Unison base libra
 * `Optional.None` aliased to `Maybe.Nothing`
 * `(.)` aliased to `compose`
 * `curry` and `uncurry` aliased to `schönfinkel` and `unschönfinkel`, respectively
+
+## Installation instructions
+
+From `ucm`, the Unison Codebase Manager:
+
+```
+.> pull https://github.com/runarorama/unison-names .lib.names
+```
+
+Substitute for `.lib.names` whatever namespace where you want this to live in your codebase.
